@@ -10,6 +10,7 @@ build/
 
 # Maven
 target/
+shedlock-demo/target/
 
 # Kotlin
 *.kotlin_module
