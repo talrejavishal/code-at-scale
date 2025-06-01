@@ -1,1 +1,1 @@
-# code-better-even-at-scale
+# code-better-at-scale
