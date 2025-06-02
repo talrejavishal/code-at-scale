@@ -1,4 +1,4 @@
-package com.thinkcodescale.shedlock_demo
+package com.codebetteratscale.shedlock_demo
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

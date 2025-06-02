@@ -1,4 +1,4 @@
-package com.thinkcodescale.shedlock_demo.config
+package com.codebetteratscale.shedlock_demo.config
 
 import net.javacrumbs.shedlock.spring.annotation.EnableSchedulerLock
 import org.springframework.context.annotation.Configuration
