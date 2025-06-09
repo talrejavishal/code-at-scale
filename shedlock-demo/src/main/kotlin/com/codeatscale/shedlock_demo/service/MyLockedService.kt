@@ -1,4 +1,4 @@
-package com.codebetteratscale.shedlock_demo.service
+package com.codeatscale.shedlock_demo.service
 
 import net.javacrumbs.shedlock.core.LockConfiguration
 import net.javacrumbs.shedlock.core.LockProvider

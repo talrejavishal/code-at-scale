@@ -1,4 +1,4 @@
-package com.codebetteratscale.shedlock_demo.config
+package com.codeatscale.shedlock_demo.config
 
 import net.javacrumbs.shedlock.core.LockProvider
 import net.javacrumbs.shedlock.provider.jdbctemplate.JdbcTemplateLockProvider

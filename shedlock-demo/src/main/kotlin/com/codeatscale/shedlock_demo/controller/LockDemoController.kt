@@ -1,6 +1,6 @@
-package com.codebetteratscale.shedlock_demo.controller
+package com.codeatscale.shedlock_demo.controller
 
-import com.codebetteratscale.shedlock_demo.service.MyLockedService
+import com.codeatscale.shedlock_demo.service.MyLockedService
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController

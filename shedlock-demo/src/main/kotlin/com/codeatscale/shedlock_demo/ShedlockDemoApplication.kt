@@ -1,4 +1,4 @@
-package com.codebetteratscale.shedlock_demo
+package com.codeatscale.shedlock_demo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

@@ -1,4 +1,4 @@
-package com.codebetteratscale.shedlock_demo.service
+package com.codeatscale.shedlock_demo.service
 
 import net.javacrumbs.shedlock.spring.annotation.SchedulerLock
 import org.springframework.scheduling.annotation.Scheduled
